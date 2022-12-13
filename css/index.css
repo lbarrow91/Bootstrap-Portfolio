@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+.heroImage {
+    height: 200px;
+    width: 100px;
+}
+
+.container-fluid {
+    padding: 25px;
+    margin-bottom: 25px;
+}
+
+.content {
+    background-color: lightblue;
+}
+
+.cards {
+    background-color: lightslategray;
+}
+
+.cardContainer {
+    display: flex;
+}
+
+.cardImages {
+    height: 235px;
+}
